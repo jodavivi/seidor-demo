@@ -1,0 +1,16 @@
+{
+  "name": "seidor-saas",
+  "version": "1.0.0",
+  "description": "How to use openui5-dist package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  }, 
+  "author": "Norbert Volf",
+  "license": "MIT", 
+  "dependencies": {
+    "express": "^4.17.1",
+    "openui5-dist": "^1.108.10"
+  }
+}
